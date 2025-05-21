@@ -17,27 +17,27 @@ with varying technical backgrounds. <br>
 **4). Simplicity:** This algorithm is easy to implement and runs efficiently in real-time
 applications.
 # Software Frameworks and Libraries:
-**Data Processing**
+**1). Data Processing**
 ```bash
 - pandas, numpy - Data manipulation
 - scikit-learn - Standard ML algorithms
 - pyod – Specialized anomaly detection library
 - river – Online ML & anomaly detection on data streams
 ```
-**Streaming / Real-Time Processing**
+**2). Streaming / Real-Time Processing**
 ```bash
 - Kafka + kafka-python – Distributed streaming
 - Spark Streaming or Apache Flink (optional for large-scale data)
 ```
-**Visualization**
+**3). Visualization**
 ```bash
 - matplotlib, seaborn, plotly – Visualize anomalies and metrics
 ```
-**Monitoring & Logging**
+**4). Monitoring & Logging**
 ```bash
 - logging, mlflow, TensorBoard (if using deep learning)
 ```
-**Evaluation**
+**5). Evaluation**
 ```bash
 - sklearn.metrics – Precision, recall, F1-score, ROC-AUC for anomaly detection
 ```
