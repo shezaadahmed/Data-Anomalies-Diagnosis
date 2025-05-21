@@ -11,8 +11,8 @@ system performance analysis.
 1). **Real-Time Detection**: It enables immediate anomaly detection as data is
 processed. <br>
 2). **Immediate Results**: Anomalies are detected on-the-fly, allowing for quick
-responses to potential issues.
+responses to potential issues. <br>
 3). **User-Friendly**: The threshold concept is intuitive, making it accessible for users
-with varying technical backgrounds.
-4). **Simplicity**: This algorithm is easy to implement and runs efficiently in real-time
+with varying technical backgrounds. <br>
+*4).* **Simplicity**: This algorithm is easy to implement and runs efficiently in real-time
 applications.
