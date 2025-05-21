@@ -1,5 +1,5 @@
-# Project Description: The goal of this project is to develop a Python script that detects anomalies in a continuous data stream, simulating floating-point numbers. This data could represent metrics such as financial transactions or system metrics, with a focus on identifying unusual patterns.
-
+# Project Description: 
+The goal of this project is to develop a Python script that detects anomalies in a continuous data stream, simulating floating-point numbers. This data could represent metrics such as financial transactions or system metrics, with a focus on identifying unusual patterns.
 # Chosen Algorithms:
 1). Statistical Methods: Z-Score
 2). Machine Learning: K-Means Clustering, Isolation Forest
