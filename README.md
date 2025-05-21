@@ -9,7 +9,7 @@ system performance analysis.
 5). Ensemble Methods: Random Cut Forest.
 # Effectiveness:
 1). **Real-Time Detection**: It enables immediate anomaly detection as data is
-processed.
+processed. <br>
 2). **Immediate Results**: Anomalies are detected on-the-fly, allowing for quick
 responses to potential issues.
 3). **User-Friendly**: The threshold concept is intuitive, making it accessible for users
